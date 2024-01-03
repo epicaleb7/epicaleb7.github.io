@@ -1,0 +1,54 @@
+p {
+    color:bisque;
+    color:bisque;
+    color:bisque;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body {
+    color:aquamarine;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:url('bkg_image.png');
+    background-size: fit;
+    /*
+    background-color: burlywood;
+    */
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    color:aquamarine;
+}
+.wrapper_menu {
+    padding: 5px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-color: blanchedalmond;
+    border-width: 2px;
+    border-style: groove;
+    
+}
+
+.wrapper_foot {
+    padding: 5px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-color: blanchedalmond;
+    border-width: 2px;
+    border-style: groove;
+    
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+a {
+    color:chocolate;
+    cursor:url('Untitled-1.png'), auto;
+}
+
+bleh {
+    widt
+}
