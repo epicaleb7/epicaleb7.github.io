@@ -18,6 +18,22 @@ h1 {
     padding: 10px;
     color:aquamarine;
 }
+
+/* cursive is a CLASS not a different name! */
+h1.cursive {
+    font-family: "Sofia", "Helvetica",  "Trebuchet MS", sans-serif;
+    text-align: center;
+    padding: 10px;
+    color:aquamarine;
+    font-weight: 100;
+}
+h1.bold {
+    font-family: "Audiowide", sans-serif;
+}
+h1.serif {
+    font-family: "Trirong", serif;
+}
+
 .wrapper_menu {
     padding: 5px;
     background-color: whitesmoke;
@@ -47,6 +63,11 @@ header {
 a {
     color:chocolate;
     cursor:url('Untitled-1.png'), auto;
+}
+
+a.cursive {
+    font-family: "Noto Sans";
+    font-weight: 5;
 }
 
 bleh {
