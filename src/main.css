@@ -20,7 +20,7 @@ h1 {
 }
 
 /* cursive is a CLASS not a different name! */
-h1.cursive {
+.cursive {
     font-family: "Sofia", "Helvetica",  "Trebuchet MS", sans-serif;
     text-align: center;
     padding: 10px;
@@ -45,12 +45,12 @@ h1.serif {
 }
 
 .wrapper_foot {
-    padding: 5px;
-    background-color: whitesmoke;
-    border-radius: 10px;
-    border-color: blanchedalmond;
+    padding: 45px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    border-color: whitesmoke;
     border-width: 2px;
-    border-style: groove;
+    width: 450px;
     
 }
 
@@ -68,6 +68,11 @@ a {
 a.cursive {
     font-family: "Noto Sans";
     font-weight: 5;
+}
+
+a.sublink {
+    font-size: 20px;
+    color: azure
 }
 
 bleh {
